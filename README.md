@@ -1,6 +1,5 @@
 # Hi there! 👋 I'm Miracle Chukwu
 
-
 Welcome to my GitHub profile! I am a dedicated Data Analyst with a strong love for extracting insights from data. My proficiency in Python, SQL, Excel, and data visualization tools like Power BI and Tableau allows me to uncover valuable patterns and trends that drive data-informed decisions. I am always eager to learn and explore new data challenges!
 
 ### 🧰 Technologies & Tools
@@ -17,13 +16,9 @@ Explore some of my notable data analysis projects, where I've utilized my skills
 
 Continuous learning is my mantra! Here's what I'm currently diving into to enhance my data analytics skills.
 
-- Machine Learning with Python:
-  > A sentence or two about the course and your goals with it.
-
+- Machine Learning with Python
 - Microsoft Power BI Desktop for Business Intelligence
-
-- Advanced SQL Techniques:
-  > A sentence or two about the course and your goals with it.
+- Advanced SQL Techniques
 
 ### 📫 Let's Connect
 

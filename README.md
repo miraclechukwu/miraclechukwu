@@ -43,5 +43,6 @@ Continuous improvement is essential. Here are some of my certifications in data 
 - Google Data Analytics (Cousera)
 - Certificate Of Completion (Primo Academy Data Analytics Trainee Program)
 - SQL Fundamentals (Coursera)
+- MySQL for Data Analytics and Business Intelligence
 
 Feel free to explore my repositories and projects to see how I leverage data analysis to make a difference. Connect with me to discuss data challenges, share ideas, or collaborate on exciting projects! 🚀

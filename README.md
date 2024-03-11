@@ -17,7 +17,6 @@ Explore some of my notable data analysis projects, where I've utilized my skills
 Continuous learning is my mantra! Here's what I'm currently diving into to enhance my data analytics skills.
 
 - Machine Learning with Python
-- Microsoft Power BI Desktop for Business Intelligence
 - Advanced SQL Techniques
 
 ### 📫 Let's Connect
@@ -29,11 +28,8 @@ I love to collaborate and network! Reach out to me through the following channel
 - Email: www.miraclechukwu29@gmail.com
 
 ### 📚 Blog Articles
+I share my thoughts and insights through blog posts. Check out some of my popular articles [here](https://medium.com/@miraclechukwu29).
 
-I share my thoughts and insights through blog posts. Check out some of my popular articles:
-
-- [Blog Post 1](link-to-blog-post-1): 
-  > Short description of the article's content and key takeaways.
 
 
 ### 🏆 Certifications
@@ -42,6 +38,7 @@ Continuous improvement is essential. Here are some of my certifications in data 
 
 - Google Data Analytics (Cousera)
 - Certificate Of Completion (Primo Academy Data Analytics Trainee Program)
+- Microsoft Power BI Desktop for Business Intelligence
 - SQL Fundamentals (Coursera)
 - MySQL for Data Analytics and Business Intelligence
 

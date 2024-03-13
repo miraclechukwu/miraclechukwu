@@ -1,10 +1,10 @@
 # Hi there! 👋 I'm Miracle Chukwu
 
-Welcome to my GitHub profile! I am a dedicated Data Analyst with a strong love for extracting insights from data. My proficiency in Python, SQL, Excel, and data visualization tools like Power BI and Tableau allows me to uncover valuable patterns and trends that drive data-informed decisions. I am always eager to learn and explore new data challenges!
+Welcome to my GitHub profile! I am a dedicated Data Analyst with a strong love for extracting insights from data. My proficiency in Python, SQL, Excel, and data visualization tools like Power BI, Looker Studio and Tableau allows me to uncover valuable patterns and trends that drive data-informed decisions. I am always eager to learn and explore new data challenges!
 
 ### 🧰 Technologies & Tools
 
-Excel | Power BI | SQL | Python | Tableau | R | Canva 
+Excel | Power BI | SQL | Python | Tableau | R | Looker Studio | VS Code| Canva 
 
 ### 🚀 Projects
 
